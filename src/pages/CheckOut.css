@@ -1,0 +1,42 @@
+.btnStyle:hover {
+  background-color: black;
+  color: aliceblue;
+  cursor: pointer;
+}
+.addressForm {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.addressCard {
+  height: auto;
+  padding: 10px;
+  z-index: 1;
+  margin: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 300px;
+  font-family: Monospace, Monaco;
+}
+
+.useName{
+  font-size: 12px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.otherText{
+  font-size: 12px;
+  text-align: left;
+}
+
+.contactDetails{
+  margin-top: 20px;
+}
+
+.contactDetails div{
+  display: flex;
+  font-size: 12px;
+  text-align: left;
+}
